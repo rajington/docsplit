@@ -1,4 +1,4 @@
-require 'test/test_helper.rb'
+require 'test_helper.rb'
 
 class ExtractInfoTest < Test::Unit::TestCase
 
